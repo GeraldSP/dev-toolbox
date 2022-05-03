@@ -10,4 +10,4 @@ ENV KUBECONFIG=/tmp/kubeconfig
 
 WORKDIR /tmp
 
-ENTRYPOINT [ "sleep", "5555" ]
+ENTRYPOINT [ "sleep", "999999" ]
